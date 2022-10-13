@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="InstagramProfile.ProfileName" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="InstagramProfile.ProfileTabLayout" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMaxWidth">0dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
